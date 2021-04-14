@@ -1,0 +1,7 @@
+. pkg install wget
+2. pkg install curl
+3. pkg install openssl-tool
+4. git clone https://github.com/Eric-M1/Insta-bot.git
+5. cd Insta-bot
+6. cd Instagram-bot
+7. bash Instagram-bot.sh
